@@ -1,9 +1,17 @@
-# NGUYỄN LÊ HOÀNG QUÂN - SINH VIÊN NĂM 3 
+ ![image-2](https://user-images.githubusercontent.com/105483714/175805033-d5c42b6e-c071-48c0-8001-b5c1935363ca.png)
+# NGUYỄN LÊ HOÀNG QUÂN - SINH VIÊN NĂM 3
+
+
 
 ## Về bản thân 
 Là một người cởi mở và thân thiên 
 
+Nghiêm túc với công việc 
+
 Ham học hỏi và tìm kiếm những kiến thức mới 
+
+Đam mê trở thành 1 kĩ sư 
+
 
 ## Về Học Vấn  <a href="https://github.com/HoangQuanHCMUTEK19/Hoang-Quan-"><img align="left" width="auto" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ScVnWD69evDqRsfGEFdWNOvPMuU-zecU0to6Ahjfn_ta5mFaKQqefWgccI1UrkPfrIE&usqp=CAU"></a>
 
